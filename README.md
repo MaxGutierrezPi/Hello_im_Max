@@ -7,6 +7,9 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
+<h2>👨‍💻 Certifications:</h2>
+  <b>Introduction to cybersecurity issued by Cisco Networking academy</b> 
+  - [Certification](https://credly.com/badges/b62f6e58-04f1-495e-9ac6-950479816516)
 <h2>👨‍💻 Robotics Proyects:</h2>
 
 <h2>👨‍💻 Entrepreneurship:</h2>
