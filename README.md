@@ -11,13 +11,19 @@
 -Log analizer with python (in progress)
 -
 
+<h2>👨‍💻 University studies</h2>
+<b>Computer security and network engineering (in progress)</b>
+<b>Computer systems engineering (not completed)</b>
 
 
-<h2>👨‍💻 Studies and certifications:</h2>
+
+<h2>👨‍💻 Certifications:</h2>
  - <b>Introduction to cybersecurity issued by Cisco Networking academy</b> 
   <a href="https://credly.com/badges/b62f6e58-04f1-495e-9ac6-950479816516"> [Certification Link]</a><p>
  - <b>Google cybersecurity professional certificate (in progress)</b><br>
- - <b>Computer security and network engineering (in progress)</b><br>
+ - <b>NDG linux unhatched issued by Cisco</b><br>
+ 
+    
 <h2>👨‍💻 Robotics Proyects:</h2>
 
 <h2>👨‍💻 Entrepreneurship:</h2>
