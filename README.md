@@ -2,10 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Proyects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Keylogger with python</b>
+  (https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Honeypot (in progress)</b>
+-NAT server whith Open media vault (in progress)
+-Active directory (in progress)
+-Port scanner with python (in progress)
+-Log analizer with python (in progress)
+-
+
+
 
 <h2>👨‍💻 Studies and certifications:</h2>
  - <b>Introduction to cybersecurity issued by Cisco Networking academy</b> 
