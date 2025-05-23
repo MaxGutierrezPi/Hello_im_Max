@@ -3,12 +3,11 @@
 <h2>👨‍💻 Cybersecurity Proyects:</h2>
 
 - <b>Keylogger with python</b>
-  (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Honeypot (in progress)</b>
--NAT server whith Open media vault (in progress)
--Active directory (in progress)
--Port scanner with python (in progress)
--Log analizer with python (in progress)
+- <b>NAT server whith Open media vault (in progress)</b>
+- <b>Active directory (in progress)</b>
+- <b>Port scanner with python (in progress)</b>
+- <b>Log analizer with python (in progress)</b>
 -
 
 <h2>👨‍💻 University studies</h2>
