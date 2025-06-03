@@ -1,66 +1,66 @@
 <h1>I'm Max Gutiérrez <br/><a href="https://github.com/joshmadakor1">Cybersecurity and educational robotics</a>
 
-<h2>👨‍💻 Cybersecurity Proyects:</h2>
+<h2>👨‍💻 Cybersecurity Proyects</h2>
 
-- <b>Keylogger with python</b>
-- <b>Honeypot (in progress)</b>
-- <b>NAT server whith Open media vault (in progress)</b>
-- <b>Active directory (in progress)</b>
-- <b>Port scanner with python (in progress)</b>
-- <b>Log analizer with python (in progress)</b>
--
+ - <b>Keylogger with python</b><br>
+ - <b>SOC lab</b><br>
+ - <b>Honeypot (in progress)</b><br>
+ - <b>NAT server whith Open media vault (in progress)</b><br>
+ - <b>Active directory (in progress)</b><br>
+ - <b>Port scanner with python (in progress)</b><br>
+ - <b>Log analizer with python (in progress)</b><br>
 
-<h2>👨‍💻 University studies</h2>
-<b>Computer security and network engineering (in progress)</b>
-<b>Computer systems engineering (not completed)</b>
+ <h2>👨‍💻 University studies:</h2>
+ - <b>Computer security and network engineering (in progress)</b><br>
+ - <b>Computer systems engineering (not completed)</b><br>
 
+ <h2>👨‍💻 Certifications:</h2>
+ - <b>Introduction to cybersecurity issued by Cisco Networking academy 2025</b> <a href="https://credly.com/badges/b62f6e58-04f1-495e-9ac6-950479816516"> [Credly certification link]</a><p><br>
+ - <b>Google cybersecurity professional certificate 2025 (in progress)</b><br>
+ - <b>NDG linux unhatched issued by Cisco </b><br>
 
+ <h2>👨‍💻 Pentesting tools</h2>
+ - <b>Nmap</b><br>
 
-<h2>👨‍💻 Certifications:</h2>
- - <b>Introduction to cybersecurity issued by Cisco Networking academy</b> 
-  <a href="https://credly.com/badges/b62f6e58-04f1-495e-9ac6-950479816516"> [Certification Link]</a><p>
- - <b>Google cybersecurity professional certificate (in progress)</b><br>
- - <b>NDG linux unhatched issued by Cisco</b><br>
+  <h2>👨‍💻 Operating sistems</h2>
+ - <b>Ubuntu</b><br>
+ - <b>Ubuntu Server</b><br>
+ - <b>Kali Linux</b><br>
+ - <b>Windows</b><br>
  
-    
-<h2>👨‍💻 Robotics Proyects:</h2>
+ <h2>👨‍💻 Languages</h2>
+ - <b>Python</b><br>
+ - <b>C++</b><br>
+ - <b>Visual Basic .NET</b><br>
+ - <b>SQL</b><br>
+ - <b>Java</b><br>
+ - <b>HTML and CSS</b><br>
+ - <b>Arduino</b><br>
 
-<h2>👨‍💻 Entrepreneurship:</h2>
+<h2>👨‍💻 Entrepreneurship</h2>
+ - <b>IARobot robotics school</b> <a href="https://credly.com/badges/b62f6e58-04f1-495e-9ac6-950479816516"> [Facebook link]</a><p><br>
+ - <b>Promax VIP</b> <a href="https://credly.com/badges/b62f6e58-04f1-495e-9ac6-950479816516"> [Facebook link]</a><p><br>
 
-<h2>👨‍💻 Presentations and events:</h2>
+<h2>👨‍💻 Conferences and talks</h2><br>
+- <b>Presentacion de Promax VIP</b><br>
+- <b>Conferencia motivacional en el Instituto Tecnologico de Jiquilpan numero 42</b><br>
+- <b>Conferencia motivacional en el Cetis 121</b><br>
+- <b>Charla sobre robótica educativa en la escuela Ignacio Lopez Rayón</b><br>
+- <b>Exposiciones de proyectos realizados por mis estudiantes de robótica educativa</b><br>
+- <b>Taller intensivo de robots seguidores de lineas en el Instituto Tecnologico de Jiquilpan numero 42</b><br>
+
+<h2>👨‍💻 Robotics Proyects:</h2><br>
 
 
-
-<h2>📺 Popular YouTube and facebook Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>📺 Popular YouTube and facebook Videos</h2><br>
+- <b>[Welcome IARobot robotics school](https://www.youtube.com/watch?v=a83ASGn_V_s)</b><br>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
