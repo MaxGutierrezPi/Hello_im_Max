@@ -1,10 +1,10 @@
-<h1>I'm Max Gutiérrez <br/><a href="https://github.com/joshmadakor1">Cybersecurity and educational robotics</a>
+<h1>I'm Max Gutiérrez <br/><a href="https://github.com/joshmadakor1">Ciberseguridad</a>
 
-<h2>👨‍💻 Cybersecurity Proyects</h2>
+<h2>👨‍💻 Mis proyectos</h2>
 
- - <b>Keylogger with python</b><br>
+ - <b>Keylogger con python</b><br>
  - <b>SOC lab</b><br>
- - <b>Honeypot (in progress)</b><br>
+ - <b>Honeypot (en proceso)</b><br>
  - <b>NAT server whith Open media vault (in progress)</b><br>
  - <b>Active directory (in progress)</b><br>
  - <b>Port scanner with python (in progress)</b><br>
