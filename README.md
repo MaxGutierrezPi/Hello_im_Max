@@ -1,4 +1,4 @@
-<h1>Martín Maximiliano Gutiérrez Piñón | CIBERCURIOSIDAD <br/>
+<h1><p align="center"> Martín Maximiliano Gutiérrez Piñón | CIBERCURIOSIDAD </p>
 <p align="center"> L X | N T | B D | A D | S V | W B </p>
 
 <h2>👨‍💻 Mis proyectos</h2>
