@@ -11,6 +11,7 @@
  - <b>Active directory</b><br>
  - <b>Escanner de puertos con python</b><br>
  - <b>Analizador de Logs con python</b><br>
+ - <b>CTFs</b><br>
 
  <h2>👨‍💻 Estudios universitarios</h2>
  - <b>Ingeniería en seguridad informátíca y redes (en proceso)</b><br>
