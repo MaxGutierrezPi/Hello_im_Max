@@ -7,7 +7,7 @@
 
  - <b>Keyloggers</b><br>
  - <b>Laboratorio SOC</b><br>
- - <b>Honeypots</b><br>
+ - <b>Honeypot con T-POT</b><br>
  - <b>Active directory</b><br>
  - <b>Escanner de puertos con python</b><br>
  - <b>Analizador de Logs con python</b><br>
